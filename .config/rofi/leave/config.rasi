@@ -1,0 +1,10 @@
+configuration {
+    font: "Iosevka Nerd Font 12";
+    show-icons: true;
+}
+
+
+@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+
+
+
