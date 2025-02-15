@@ -1,0 +1,9 @@
+set selection-clipboard clipboard
+set recolor true
+set recolor-darkcolor "#dcdccc"
+set recolor-lightcolor "#1f1f1f"
+set font 'Iosevka Nerd Font normal 10'
+set backend mupdf
+
+
+
